@@ -1,0 +1,11 @@
+{
+    "max_length": 38,
+    "threshold": 0.5,
+    "vocab_size": 10000,
+    "embedding_dim": 64,
+    "lstm_units": 64,
+    "test_accuracy": 0.9787,
+    "precision": 0.9225,
+    "recall": 0.9084,
+    "f1_score": 0.9154
+}
